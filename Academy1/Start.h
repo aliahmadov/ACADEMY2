@@ -35,4 +35,8 @@ void Start() {
 		AddNewTeacher(teachers);
 		cout << "\nNew Teacher has been successfully added !!!\n";
 	}
+
+	else if (select == 6) {
+		cout << "Duzgun daxil edin" << endl;
+	}
 }
